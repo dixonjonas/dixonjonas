@@ -1,10 +1,16 @@
 # Hi there, I'm Jonas 👋
 
+I'm a driven AI engineer with a strong interest in machine learning, large language models and computer vision. I am passionate about building intelligent systems that turn cutting-edge research into real-world applications.
+
 ## 🤖 About Me
 
 - 🔬 Currently working on my master's thesis at Scania and AI Sweden
-- 🎓 Studied in USA and Sweden
+- 🎓 Studied in the US and Sweden
 - 🧠 Focused on Deep Learning, Large Language Models, and Applied AI
+
+## 🛠 Skills & Tools
+
+ADD STUFF HERE
 
 ## 📊 GitHub Stats
 
