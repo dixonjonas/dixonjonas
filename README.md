@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there, I'm Jonas 👋
+
+## 🚀 About Me
+
+- 🔬 Currently working on my master's thesis at Scania and AI Sweden
+- 🎓 Studied in USA and Sweden
+- 🧠 Focused on Deep Learning, Large Language Models, and Applied AI
 
 <!--
 **dixonjonas/dixonjonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
