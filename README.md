@@ -8,10 +8,6 @@ I'm a driven AI engineer with a strong interest in machine learning, large langu
 - 🎓 Studied in the US and Sweden
 - 🧠 Focused on Deep Learning, Large Language Models, and Applied AI
 
-## 🛠 Skills & Tools
-
-ADD STUFF HERE
-
 ## 📊 GitHub Stats
 
 ![dixonjonas's Stats](https://github-readme-stats.vercel.app/api?username=dixonjonas&theme=shadow_green&show_icons=true&hide_border=true&count_private=true)  
