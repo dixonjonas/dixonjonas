@@ -1,6 +1,6 @@
 # Hi there, I'm Jonas 👋
 
-I'm a driven AI engineer with a strong interest in machine learning, large language models and computer vision. I am passionate about building intelligent systems that turn cutting-edge research into real-world applications.
+I'm a driven Data Scientist / AI engineer with a strong interest in machine learning, large language models and computer vision. I am passionate about building intelligent systems that turn cutting-edge research into real-world applications.
 
 ## 🤖 About Me
 
